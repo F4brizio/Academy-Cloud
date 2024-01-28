@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'db_host',
-	'username' => 'db_user',
-	'password' => 'db_pass',
-	'database' => 'db_name',
+	'hostname' => '50.31.177.198',
+	'username' => 'xfakmyrz_academy',
+	'password' => 'q-tshN0A;~~n',
+	'database' => 'xfakmyrz_academy',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
