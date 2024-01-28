@@ -1,4 +1,4 @@
-runtime: php74
+runtime: php73
 env: flex
 
 handlers:
